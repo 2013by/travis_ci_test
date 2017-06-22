@@ -5,4 +5,4 @@ install:
   - pip install pytest
 script: 
   - python python/myclass_test.py
- 
+  - python python/myclass_test1.py
