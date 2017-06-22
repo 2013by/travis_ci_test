@@ -1,6 +1,6 @@
 language: python
 python:
 - 2.7
-"scripts": {
-    "test": "python python/myclass_test.py",
-  }
+scripts: 
+  -python python/myclass_test.py
+ 
